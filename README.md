@@ -1,4 +1,5 @@
 # 1.20.1-TFC-Anvil-Guide
+DM captain_milkman2343 on Discord or [create a Issue](https://github.com/Gottaloveeggs/1.20.1-TFC-Anvil-Guide/issues) for help
 
 # Use Crtl+F to find the pattern you need!
 | Subtractive actions (Actual value)|  Icon | Additive actions (Actual value) |  Icon |
