@@ -1,7 +1,8 @@
 # 1.20.1-TFC-Anvil-Guide
-[create a Issue](https://github.com/Gottaloveeggs/1.20.1-TFC-Anvil-Guide/issues) to report a error/suggestion/improvement
+[Create a Issue](https://github.com/Gottaloveeggs/1.20.1-TFC-Anvil-Guide/issues) to report a error/suggestion/improvement\
+Disclaimer: The steps are vaildated for the Perfectly Forged criteria, not lowest possible steps.
 
-# Use Crtl+F to find the pattern you need!\
+# Use Crtl+F to find the pattern you need!
 (Command + F on MAC)
 | Subtractive actions (Actual value)|  Icon | Additive actions (Actual value) |  Icon |
 |---|---|---|---|
@@ -26,3 +27,8 @@
 | Refined Iron Bloom | 1 Raw Iron Bloom | ![Shrink](https://github.com/user-attachments/assets/025a1080-86af-4fa9-9903-54a04e253e13)*7 ![Bend](https://github.com/user-attachments/assets/5d086c68-ef30-494c-b422-e025ab4cb9b6)*2 ![Hard](https://github.com/user-attachments/assets/286cee82-912b-40bf-9875-2f680a1fb794) ![Medium](https://github.com/user-attachments/assets/97a9a9e3-ef8b-44e1-822d-1c5f8bda741e) ![Light](https://github.com/user-attachments/assets/9a527fb2-b5a3-4ab5-b5e2-011249d2fccf) |
 | Wrought Iron | 1 Refined Iron Bloom | ![Shrink](https://github.com/user-attachments/assets/025a1080-86af-4fa9-9903-54a04e253e13)*4 ![Punch](https://github.com/user-attachments/assets/f43d8668-5b81-4ef9-a869-dbcf43540196) ![Hard](https://github.com/user-attachments/assets/286cee82-912b-40bf-9875-2f680a1fb794) ![Medium](https://github.com/user-attachments/assets/97a9a9e3-ef8b-44e1-822d-1c5f8bda741e) ![Light](https://github.com/user-attachments/assets/9a527fb2-b5a3-4ab5-b5e2-011249d2fccf) |
 | High Carbon Steel | Pig Iron Ingot | ![Upset](https://github.com/user-attachments/assets/1f8ab5a3-a07b-4b0d-93bc-c1045fe7709a)*8 ![Punch](https://github.com/user-attachments/assets/f43d8668-5b81-4ef9-a869-dbcf43540196)*2 ![Hard](https://github.com/user-attachments/assets/286cee82-912b-40bf-9875-2f680a1fb794) ![Medium](https://github.com/user-attachments/assets/97a9a9e3-ef8b-44e1-822d-1c5f8bda741e) ![Light](https://github.com/user-attachments/assets/9a527fb2-b5a3-4ab5-b5e2-011249d2fccf) |
+| Steel | High Carbon Steel | ![Shrink](https://github.com/user-attachments/assets/025a1080-86af-4fa9-9903-54a04e253e13)*7 ![Punch](https://github.com/user-attachments/assets/f43d8668-5b81-4ef9-a869-dbcf43540196)*4 ![Hard](https://github.com/user-attachments/assets/286cee82-912b-40bf-9875-2f680a1fb794) ![Medium](https://github.com/user-attachments/assets/97a9a9e3-ef8b-44e1-822d-1c5f8bda741e) ![Light](https://github.com/user-attachments/assets/9a527fb2-b5a3-4ab5-b5e2-011249d2fccf) |
+
+
+# Welding
+https://terrafirmacraft.github.io/Field-Guide/en_us/mechanics/anvils.html#welding
